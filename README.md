@@ -7,5 +7,9 @@ The proposed system processes the data and produce the result in the real-time a
 
 Raspberry Pi and a Pi Camera are responsible to stream live video over the network and act as client-side/IoT device, whereas the server-side software running on a PC 64-bit dual core processor with 8GB RAM is capable to detect vehicles (i.e. motorcycles and cars) and detect/recognize number plates of five different regions namely American, Brazilian, Chinese, European and Taiwanese and simultaneously recognize license plate characters and face in real-time.
 
+Note: The weights and CFG cannot be shared at this time. Hopefully soon!
+
 # Citations
 Hsu, G.S., Chen, J.C. and Chung, Y.Z., "Application-Oriented License Plate Recognition," Vehicular Technology, IEEE Trans., vol.62, no.2, pp.552-561, Feb. 2013
+
+Robles, R.J., Kim, T.H., Cook, D. and Das, S., 2010. A review on security in smart home development. International Journal of Advanced Science and Technology, 1
