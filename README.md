@@ -1,2 +1,4 @@
 # AI-enabled-IoT
-A computer vision application deployed in centralized IoT system
+A license plate classification and character recognition YOLO model deployed on a Raspberry Pi.
+
+![MOOC-prediction](rplot2.JPG)
